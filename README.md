@@ -1,7 +1,7 @@
 <h1>Tap Winner Game</h1>
 Was created using Flutter.
 <br>
-<br>
+
 - You can choose the two main pictures<br>
 - You can choose an image that appears when one of the parties wins<br>
 - You can choose a sound when you touch the screen at either end<br>
@@ -9,6 +9,7 @@ Was created using Flutter.
 - When one of the parties wins, the attached picture of the victory and a celebration appear from the top of the screen
 <br>
 <br>
+
 - Techhnologies used :- 
 
 - Dart ( Programming Language )<br>
