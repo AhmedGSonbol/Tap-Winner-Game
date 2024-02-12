@@ -6,7 +6,7 @@ Was created using Flutter.
 - You can choose the two main pictures<br>
 - You can choose an image that appears when one of the parties wins<br>
 - You can choose a sound when you touch the screen at either end<br>
-- You can choose a vote when one party wins<br>
+- You can choose a sound when one party wins<br>
 - When one of the parties wins, the attached picture of the victory and a celebration appear from the top of the screen
 
 
