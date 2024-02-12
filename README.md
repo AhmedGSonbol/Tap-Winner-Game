@@ -12,7 +12,7 @@ Was created using Flutter.
 
 - Techhnologies used :- 
 
-- Dart ( Programming Language )<br>
+-- Dart ( Programming Language )<br>
 - Flutter ( Framework )<br>
 - Bloc & Cubit ( State Management )<br>
 - SQFLite ( Storage )<br>
