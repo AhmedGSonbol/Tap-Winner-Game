@@ -13,9 +13,9 @@ Was created using Flutter.
 - Techhnologies used :- 
 
     - Dart ( Programming Language )<br>
-- Flutter ( Framework )<br>
-- Bloc & Cubit ( State Management )<br>
-- SQFLite ( Storage )<br>
+    - Flutter ( Framework )<br>
+    - Bloc & Cubit ( State Management )<br>
+    - SQFLite ( Storage )<br>
 
 - Download APK from :- https://www.mediafire.com/file/xqt7e39cuy3uf4q/Tap_Winner.apk/file
 
