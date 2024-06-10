@@ -30,8 +30,8 @@ Was created using Flutter.
 <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/2cce75a2-4afc-413b-9545-7d0c726affc7" width="270" hspace="20"/>
 <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/b86b11a6-b6eb-4412-9f9e-9d8f45c6cfd6" width="270" hspace="20"/>
 <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/174f99d9-8f21-4635-a3cd-9eacc3151d4b" width="270" hspace="20"/>
-<img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/776b37e0-d002-4f80-b3a7-965dfeab2738" width="270" hspace="20"/>
-<img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/1b76dbbe-6cfd-44f3-b253-4d319de60d6b" width="270" hspace="20"/>
-<img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/affea361-82a2-482b-a0ad-c2ef5f857ec4" width="270" hspace="20"/>
+<img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/776b37e0-d002-4f80-b3a7-965dfeab2738" width="100" hspace="20"/>
+<img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/1b76dbbe-6cfd-44f3-b253-4d319de60d6b" width="100" hspace="20"/>
+<img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/affea361-82a2-482b-a0ad-c2ef5f857ec4" width="100" hspace="20"/>
 
 </div>
